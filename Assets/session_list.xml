@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<SessionList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sessions>
+    <Session id="0">
+      <TimeCreated>2017-05-23T12:45:57.1820822+03:00</TimeCreated>
+      <SpentTime>0:3</SpentTime>
+      <PlayerName>Player</PlayerName>
+      <Coins>0</Coins>
+      <DeathCause>Escape</DeathCause>
+    </Session>
+  </Sessions>
+</SessionList>
